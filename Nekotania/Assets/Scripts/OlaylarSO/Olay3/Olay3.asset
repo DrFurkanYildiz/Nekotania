@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9d2371e48cc11d41aeec7d5dc9201a9, type: 3}
+  m_Name: Olay3
+  m_EditorClassIdentifier: 
+  OlayIsmi: "Korsan \u0130stilas\u0131"
+  MyEventName: 3
+  MyEventType: 1
+  KacinciGunAnaOlayi: 0
+  olayBasligiPhrase: {fileID: 33352506601077098, guid: ee2c115549ec6a743aeddecae74c4ae1,
+    type: 3}
+  olayAciklamasiPhrase: {fileID: 607311138319978795, guid: 0b351180c4d25134aa81f9fa0795934b,
+    type: 3}
+  olayCevaplariPhraseListesi:
+  - {fileID: 6717509986389412088, guid: 67fcb90b21fbe55459ab6956c914997c, type: 3}
+  - {fileID: 3644815552274246381, guid: 2efacabdd53b507459e6f0801ad99842, type: 3}
+  - {fileID: 6542442403802981278, guid: 75e440965b808ca448e89c6f8d811734, type: 3}
+  olaySonucAciklamaListesi:
+  - {fileID: 5704332159036560371, guid: 41a960155fb29214b9c2f59d5c1fd818, type: 3}
+  - {fileID: 2598280371898548110, guid: 3b42ec372c2fc1949881fc329b07959f, type: 3}
+  - {fileID: 6308559870945056702, guid: 29dbcf16241963b4983e6bf37a303d06, type: 3}

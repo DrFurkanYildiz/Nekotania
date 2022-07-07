@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9d2371e48cc11d41aeec7d5dc9201a9, type: 3}
+  m_Name: Olay6
+  m_EditorClassIdentifier: 
+  OlayIsmi: Calico
+  MyEventName: 6
+  MyEventType: 1
+  KacinciGunAnaOlayi: 0
+  OlayGeldiMi: 0
+  olayBasligiPhrase: {fileID: 4315404347318197862, guid: 3ca656e0b8a63434785f30963d1f502c,
+    type: 3}
+  olayAciklamasiPhrase: {fileID: 9065240906423938194, guid: d54172fa7ea29f240a62cce11936de91,
+    type: 3}
+  olayCevaplariPhraseListesi:
+  - {fileID: 605931028193254450, guid: c82af1e3d19b7e346ab0b2ac9a1ce906, type: 3}
+  olaySonucAciklamaListesi:
+  - {fileID: 7470710723311800964, guid: 3eac3b9f7af4e054e9f0c253cc32f61a, type: 3}

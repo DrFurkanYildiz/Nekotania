@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9d2371e48cc11d41aeec7d5dc9201a9, type: 3}
+  m_Name: Olay16
+  m_EditorClassIdentifier: 
+  OlayIsmi: "\u0130\u015Fleri Yoluna Koy"
+  MyEventName: 16
+  MyEventType: 1
+  KacinciGunAnaOlayi: 0
+  OlayGeldiMi: 0
+  olayBasligiPhrase: {fileID: 5093984233413410037, guid: 48f76c73e9219fb418bc67690e1cf8b3,
+    type: 3}
+  olayAciklamasiPhrase: {fileID: 1930897841546617884, guid: 100a7366f26769642b9b21403399a022,
+    type: 3}
+  olayCevaplariPhraseListesi:
+  - {fileID: 6122583102830016002, guid: bcefb1d0365d57346acf31058186ee65, type: 3}
+  - {fileID: 9181902364724962199, guid: 00165baf17b6fca42919d53d55906eed, type: 3}
+  olaySonucAciklamaListesi:
+  - {fileID: 224425815131236572, guid: 381150f2356b04e42be4cb38e64e0e2a, type: 3}
+  - {fileID: 7534710985350668612, guid: 2c978c0aa1b3d67419d494ea3ec5caea, type: 3}

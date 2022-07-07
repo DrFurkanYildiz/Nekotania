@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9d2371e48cc11d41aeec7d5dc9201a9, type: 3}
+  m_Name: Olay17
+  m_EditorClassIdentifier: 
+  OlayIsmi: "Salg\u0131n Hastal\u0131k"
+  MyEventName: 17
+  MyEventType: 1
+  KacinciGunAnaOlayi: 0
+  OlayGeldiMi: 0
+  olayBasligiPhrase: {fileID: 6162619878541173930, guid: a5f51e13ad2ef784d85c56967a18d02a,
+    type: 3}
+  olayAciklamasiPhrase: {fileID: 2423202045329707185, guid: 8bfb10d80ff0bbf4895e1a58279ba366,
+    type: 3}
+  olayCevaplariPhraseListesi:
+  - {fileID: 6082949690901963455, guid: ba03ed296ed07584ca83ae98f0a336b5, type: 3}
+  - {fileID: 2983304517450350292, guid: 59d6d5d87e216ca4fbed8cbe415943b6, type: 3}
+  olaySonucAciklamaListesi:
+  - {fileID: 5427201002396268975, guid: f458fab20d0eeb541b78ed6e173ae1ff, type: 3}
+  - {fileID: 643209796964596201, guid: 9b26eba2c5758a34996683e9da875b57, type: 3}

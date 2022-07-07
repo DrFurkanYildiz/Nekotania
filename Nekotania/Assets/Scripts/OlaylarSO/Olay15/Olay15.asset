@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9d2371e48cc11d41aeec7d5dc9201a9, type: 3}
+  m_Name: Olay15
+  m_EditorClassIdentifier: 
+  OlayIsmi: "Plan De\u011Fi\u015Fikli\u011Fi"
+  MyEventName: 15
+  MyEventType: 1
+  KacinciGunAnaOlayi: 0
+  OlayGeldiMi: 0
+  olayBasligiPhrase: {fileID: 4171155498476945867, guid: 3552ffa8eaf605f4682ef8de18aea5a8,
+    type: 3}
+  olayAciklamasiPhrase: {fileID: 7013686934758016110, guid: 305245eeeb73ce64cb91f420afee6563,
+    type: 3}
+  olayCevaplariPhraseListesi:
+  - {fileID: 4087768403730886677, guid: 629838425d3d8dc4eaee987cce5d9e2d, type: 3}
+  - {fileID: 2792709426139335427, guid: 3f23379b50c995d41939b7ab6cc1407a, type: 3}
+  olaySonucAciklamaListesi:
+  - {fileID: 974571533022129047, guid: 9bfe4e80b0c1eb640bdaec3a4c503512, type: 3}
+  - {fileID: 8990009549326302830, guid: 3b116e053665cf049b3af0a374b58472, type: 3}

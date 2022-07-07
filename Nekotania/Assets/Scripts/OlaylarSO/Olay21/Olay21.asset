@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9d2371e48cc11d41aeec7d5dc9201a9, type: 3}
+  m_Name: Olay21
+  m_EditorClassIdentifier: 
+  OlayIsmi: "Theo\u2019nun Bask\u0131n\u0131"
+  MyEventName: 21
+  MyEventType: 0
+  KacinciGunAnaOlayi: 10
+  olayBasligiPhrase: {fileID: 8708487207438789173, guid: cf617267b93260c4ea4c59e1a26a8a5b,
+    type: 3}
+  olayAciklamasiPhrase: {fileID: 25769837575931409, guid: 516e97ad14651544b8dd1cd335e58dd0,
+    type: 3}
+  olayCevaplariPhraseListesi:
+  - {fileID: 1012622169915448431, guid: 1aba5c4cc34dc54429b857c7c5d04cd9, type: 3}
+  olaySonucAciklamaListesi:
+  - {fileID: 1901700397487943009, guid: 2e8b733f795524e44ba314317887b8f0, type: 3}

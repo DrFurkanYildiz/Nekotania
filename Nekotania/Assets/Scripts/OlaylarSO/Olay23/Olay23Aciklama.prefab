@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1040295070478480810
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4917556397208512689}
+  - component: {fileID: 707895119594229713}
+  m_Layer: 0
+  m_Name: Olay23Aciklama
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4917556397208512689
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1040295070478480810}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &707895119594229713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1040295070478480810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb15fa0e7301ff849bf4d6dcede7c12b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: 0
+  entries:
+  - Language: Turkish
+    Text: "Swenky, Drutia\u2019da  sayg\u0131n, zengin, t\xFCccar bir ailenin k\u0131z\u0131yd\u0131.
+      Ancak babas\u0131 Frenk\u2019in bir s\xFCre sonra i\u015Fleri bozulmu\u015F
+      ve bor\xE7lar\u0131n\u0131 \xF6deyemeyecek duruma gelmi\u015Fti. Frenk, Drutia
+      Kral\u0131 Theo\u2019ya gitti ve bor\xE7 para istedi. Theo, Frenk\u2019e bor\xE7
+      vermeyi k\u0131z\u0131 Swenky ile evlenmek \u015Fart\u0131yla kabul edece\u011Fini
+      bildirdi. Frenk, zalim ve bencil olan bu krala k\u0131z\u0131n\u0131 vermek
+      istemese de mecburen kabul etti. Ancak olaylar\u0131n bu noktaya gelece\u011Fini
+      tahmin edemedi. Art\u0131k tek umudu Gatsby!.."
+    Object: {fileID: 0}
+  - Language: English
+    Text: The selfish decisions made started a great rebellion in Necotania. End
+      of the road for royalty?
+    Object: {fileID: 0}

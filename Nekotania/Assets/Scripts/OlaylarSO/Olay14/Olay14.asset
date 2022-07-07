@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9d2371e48cc11d41aeec7d5dc9201a9, type: 3}
+  m_Name: Olay14
+  m_EditorClassIdentifier: 
+  OlayIsmi: Kurtulanlar
+  MyEventName: 14
+  MyEventType: 1
+  KacinciGunAnaOlayi: 0
+  OlayGeldiMi: 0
+  olayBasligiPhrase: {fileID: 5278521442804388073, guid: ce6ad080fc53be648896560919747283,
+    type: 3}
+  olayAciklamasiPhrase: {fileID: 925595518440324082, guid: ffe670e1fdfbde74f8c2dea9fcc63dfb,
+    type: 3}
+  olayCevaplariPhraseListesi:
+  - {fileID: 124850845923445809, guid: 7c28728bda693c44483f8e7ced60d167, type: 3}
+  - {fileID: 8373280552583370470, guid: aa68fc7ec3f7f7744bd6954faf478ee0, type: 3}
+  olaySonucAciklamaListesi:
+  - {fileID: 4223536581163607607, guid: f4f40b2bd4cd15c499d3cc1cca8d06ed, type: 3}
+  - {fileID: 5336664732451311729, guid: 3cdf867edb7948747871da3a0c2d3fb0, type: 3}

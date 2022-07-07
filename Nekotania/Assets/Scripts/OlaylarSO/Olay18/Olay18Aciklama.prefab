@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5133321983972489391
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7440105231404319125}
+  - component: {fileID: 6193144690072882937}
+  m_Layer: 0
+  m_Name: Olay18Aciklama
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7440105231404319125
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5133321983972489391}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6193144690072882937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5133321983972489391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb15fa0e7301ff849bf4d6dcede7c12b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: 0
+  entries:
+  - Language: Turkish
+    Text: "T\xFCm ekonomisi bal\u0131k ticaretine ba\u011Fl\u0131 olan bu \xFClke
+      art\u0131k elindekiyle yetinmek zorundad\u0131r. Gatsby, ald\u0131\u011F\u0131
+      kararla zor g\xFCnler i\xE7in saklad\u0131\u011F\u0131 bal\u0131k deposunu
+      halk\u0131yla payla\u015F\u0131r. Bir yandan Henry\u2019e hara\xE7 olarak kraliyet
+      puan\u0131 \xF6derken bir yandan da  bal\u0131k stoklar\u0131n\u0131 do\u011Fru
+      kontrol etmek zorundad\u0131r. "
+    Object: {fileID: 0}
+  - Language: English
+    Text: Garfield will be throwing a party at his castle with his friends today.
+      He wants everything to be perfect. Let the preparations begin.
+    Object: {fileID: 0}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9d2371e48cc11d41aeec7d5dc9201a9, type: 3}
+  m_Name: Olay2
+  m_EditorClassIdentifier: 
+  OlayIsmi: "Su Bask\u0131n\u0131 "
+  MyEventName: 2
+  MyEventType: 1
+  KacinciGunAnaOlayi: 0
+  OlayGeldiMi: 0
+  olayBasligiPhrase: {fileID: 6408703024714490275, guid: 4d43dc4cdaa7bb443aa5f698aeab0e80,
+    type: 3}
+  olayAciklamasiPhrase: {fileID: 6737672916225931397, guid: 9f221ab5b5568694caa647fb08df8266,
+    type: 3}
+  olayCevaplariPhraseListesi:
+  - {fileID: 7442361828919763167, guid: fa49c8f43fcdcaf43814b223fdc5d492, type: 3}
+  - {fileID: 8668249335754313109, guid: dc798da4c4b58da43af40d7d4c015e8f, type: 3}
+  olaySonucAciklamaListesi:
+  - {fileID: 2038093894584977765, guid: 679624263f7acd340985f03d461892d0, type: 3}
+  - {fileID: 1134697253260968015, guid: ba7b71a7d9a478343a0fd398f363ac97, type: 3}

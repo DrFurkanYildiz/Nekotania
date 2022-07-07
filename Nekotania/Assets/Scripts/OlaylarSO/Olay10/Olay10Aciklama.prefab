@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8382852354486818501
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1836257894311969606}
+  - component: {fileID: 2406157204909388695}
+  m_Layer: 0
+  m_Name: Olay10Aciklama
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1836257894311969606
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8382852354486818501}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2406157204909388695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8382852354486818501}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb15fa0e7301ff849bf4d6dcede7c12b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: 0
+  entries:
+  - Language: Turkish
+    Text: "Nekotania halk\u0131 krall\u0131klar\u0131 ve \xF6zg\xFCrl\xFCkleri i\xE7in
+      \xE7al\u0131\u015Fsalar da aralar\u0131nda baz\u0131lar\u0131 ayn\u0131 d\xFC\u015F\xFCncede
+      de\u011Fillerdi. G\xF6z\xFCn\xFC \u015F\xF6hret ve  zenginlik b\xFCr\xFCm\xFC\u015F
+      olan kediler, Gatsby\u2019e ihanet ederek Demir Pen\xE7e Henry\u2019nin korsan
+      filosuna kat\u0131ld\u0131lar."
+    Object: {fileID: 0}
+  - Language: English
+    Text: News from the Necotania observatories! They reported that a large meteorite
+      was approaching Necotania. If not stopped, it could destroy the country in
+      seconds.
+    Object: {fileID: 0}

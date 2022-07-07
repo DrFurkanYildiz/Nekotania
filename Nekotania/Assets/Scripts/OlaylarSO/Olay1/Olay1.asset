@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9d2371e48cc11d41aeec7d5dc9201a9, type: 3}
+  m_Name: Olay1
+  m_EditorClassIdentifier: 
+  OlayIsmi: "Yas G\xFCn\xFC"
+  MyEventName: 1
+  MyEventType: 1
+  KacinciGunAnaOlayi: 0
+  OlayGeldiMi: 0
+  olayBasligiPhrase: {fileID: 4372423449979826721, guid: 82cd78658096a31459394768bc9f589f,
+    type: 3}
+  olayAciklamasiPhrase: {fileID: 8672209675595657084, guid: 69200e815276b8542916f1efd8bfd416,
+    type: 3}
+  olayCevaplariPhraseListesi:
+  - {fileID: 8395973465361007435, guid: a9bef10ca50c68445bc858a8322b0138, type: 3}
+  - {fileID: 3635105272197429254, guid: 3307e8585e7d1d84f8895bf3a7f24a4a, type: 3}
+  olaySonucAciklamaListesi:
+  - {fileID: 860922584052020654, guid: b4978f0b1cf5e034b90cd09266320a5b, type: 3}
+  - {fileID: 6400768473682787009, guid: 616d9a296f1485142b6d84325716c437, type: 3}

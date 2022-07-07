@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4699780675489414251
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1285050598628747397}
+  - component: {fileID: 607311138319978795}
+  m_Layer: 0
+  m_Name: Olay3Aciklama
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1285050598628747397
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4699780675489414251}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &607311138319978795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4699780675489414251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb15fa0e7301ff849bf4d6dcede7c12b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: 0
+  entries:
+  - Language: Turkish
+    Text: "Demir Pen\xE7e Henry,  Nekotania\u2019y\u0131 haraca ba\u011Flad\u0131\u011F\u0131
+      yetmiyormu\u015F gibi \u015Fimdi daha fazla ganimet pe\u015Finde. Sabah saatlerinde
+      yola \xE7\u0131kan 3. Filosu yak\u0131n \xE7evredeki liman k\xF6ylerini ya\u011Fmalay\u0131p,
+      liman muhaf\u0131zlar\u0131n\u0131 \xF6ld\xFCrm\xFC\u015Fler. T\xFCm bal\u0131k
+      ve ganimetlere el koymu\u015Flar."
+    Object: {fileID: 0}
+  - Language: English
+    Text: A group of people coming to visit Necotania traveled all over the country.
+      They want to adopt a few cats on the way.
+    Object: {fileID: 0}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9d2371e48cc11d41aeec7d5dc9201a9, type: 3}
+  m_Name: Olay20
+  m_EditorClassIdentifier: 
+  OlayIsmi: "Gatsby\u2019nin Gizli Plan\u0131"
+  MyEventName: 20
+  MyEventType: 0
+  KacinciGunAnaOlayi: 7
+  olayBasligiPhrase: {fileID: 678754642361881868, guid: 872b7261c00c6d5469984402c870844d,
+    type: 3}
+  olayAciklamasiPhrase: {fileID: 6453291215238806878, guid: cd469130de0af9640829e62d39db1008,
+    type: 3}
+  olayCevaplariPhraseListesi:
+  - {fileID: 5945765749052769851, guid: 4420013ed1910a848ac5b61750547b0c, type: 3}
+  olaySonucAciklamaListesi:
+  - {fileID: 1286059058378591713, guid: 5a1e148541e8461449c4292728159c52, type: 3}

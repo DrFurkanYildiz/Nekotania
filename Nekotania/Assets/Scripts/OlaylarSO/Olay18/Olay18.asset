@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9d2371e48cc11d41aeec7d5dc9201a9, type: 3}
+  m_Name: Olay18
+  m_EditorClassIdentifier: 
+  OlayIsmi: "Zor G\xFCnler"
+  MyEventName: 18
+  MyEventType: 0
+  KacinciGunAnaOlayi: 1
+  olayBasligiPhrase: {fileID: 8472836604976728720, guid: 0e2e12d78eff648408e2a598265de0f7,
+    type: 3}
+  olayAciklamasiPhrase: {fileID: 6193144690072882937, guid: 7b48bd81c84ab8940bc8c5a637af8e38,
+    type: 3}
+  olayCevaplariPhraseListesi:
+  - {fileID: 7044641133531524018, guid: 4c4a1b45976a8fa42ab12b47c06b3919, type: 3}
+  olaySonucAciklamaListesi:
+  - {fileID: 7908890931079583349, guid: fcd7414f4c536a3409ad72981e4b746f, type: 3}

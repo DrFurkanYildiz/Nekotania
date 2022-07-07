@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2653989853003230865
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6534432903747899744}
+  - component: {fileID: 3131073251648419350}
+  m_Layer: 0
+  m_Name: Olay5Cevap1Aciklama
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6534432903747899744
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2653989853003230865}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3131073251648419350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2653989853003230865}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb15fa0e7301ff849bf4d6dcede7c12b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: 0
+  entries:
+  - Language: Turkish
+    Text: "Kalbimin i\xE7erisinde sen varken her \u015Feye katlanabilirim. Mektupsuz
+      ve sensiz ge\xE7en korkun\xE7 g\xFCnlere bile. Bu zor g\xFCnleri en k\u0131sa
+      s\xFCrede atlat\u0131p seni kurtarmaya gelece\u011Fim.\r\nSeni seven Gatsby.\r\n<color=#CE583C>{puan}
+      <sprite=2> </color> kraliyet puan\u0131 kazand\u0131n.\r"
+    Object: {fileID: 0}
+  - Language: English
+    Text: The party was very entertaining, but there was no news of the <color=#CE583C>{kedi}
+      <sprite=0> </color>participating in the party.
+    Object: {fileID: 0}
